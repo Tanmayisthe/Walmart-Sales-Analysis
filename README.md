@@ -68,7 +68,9 @@ Strategic Recommendations
 4. Adapt Product Offerings: Monitor market trends and adjust product offerings accordingly.
 
 Conclusion
+
 This analysis provided valuable insights into Walmart's sales performance, highlighting areas for strategic focus and potential growth. The findings offer a comprehensive view of the company's sales trends, operational efficiency, and product performance, guiding future strategies.
 
 How to View the Dashboard
+
 You can view the dashboard by downloading the .twbx file from this repository or by visiting the Tableau Public link (https://rb.gy/jszkkt) - Shortened Link where the dashboard is posted.
