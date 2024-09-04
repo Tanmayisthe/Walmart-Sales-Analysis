@@ -1,7 +1,9 @@
 Overview
+
 This project involves analyzing Walmart's sales data to uncover key trends and insights. The primary objective was to gain a deeper understanding of sales performance across various dimensions, such as time, region, and product categories. This analysis is part of my Data Analyst portfolio and aimed at building knowledge in the sales domain.
 
 Data Source
+
 The data used in this analysis was obtained from data.world. It includes detailed records of Walmart's retail transactions, covering multiple years and offering a rich dataset for analysis.
 
 Project Objective
