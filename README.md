@@ -7,6 +7,7 @@ Data Source
 The data used in this analysis was obtained from data.world. It includes detailed records of Walmart's retail transactions, covering multiple years and offering a rich dataset for analysis.
 
 Project Objective
+
 The goal of this project was to uncover sales trends and assess the overall sales performance of Walmart over time. The analysis provides insights into key areas such as sales trends by year, regional performance, and the impact of different product categories on overall sales.
 
 Tools and Technologies Used
